@@ -7,9 +7,9 @@ I'm not that much active on these things so maybe you'll find this some informat
 
 Some note worthy projects that I have worked on you can find online are
 
-https://purpleprn.com/
-https://www.jobfunders.com/nl/
-http://www.collegiatesportsadvocate.com/
+- https://purpleprn.com/
+- https://www.jobfunders.com/nl/
+- http://www.collegiatesportsadvocate.com/
 
 Currently attending Conestoga College learning about Web Development
 
@@ -17,4 +17,4 @@ Trying to get good habits of code doing leetcode and other stuff. Also, doing on
 
 Lets Connect!
 
-- Mitul
+-- Mitul
