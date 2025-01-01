@@ -1,20 +1,87 @@
-Hi I'm Mitul I have experince in JavaScript, React, Node, Express some SQL and I learned python while ago so Python is somewhere in mind but I can't remember much.
+# Mitul Mistry
 
-Currently trying to learn Ruby and Rails.
-https://lutim.notion.site/lutim/Ruby-85e6c1997eab4837bea007af1b5c0b11
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
 
-I'm not that much active on these things so maybe you'll find this some information which is outdated as of now.
+## 👨‍💻 About Me
 
-Some note worthy projects that I have worked on you can find online are
+I'm a passionate Frontend Developer with 2+ years of experience in building scalable web applications. Currently pursuing Web Development at Conestoga College, I'm expanding my tech stack with Ruby on Rails. My focus is on creating accessible, high-performance web applications and data visualization interfaces.
 
-- https://purpleprn.com/
-- https://www.jobfunders.com/nl/
-- http://www.collegiatesportsadvocate.com/
+- 🔭 I'm currently working on mastering Ruby on Rails
+- 🌱 I'm currently learning advanced backend development techniques
+- 👯 I'm looking to collaborate on open-source React projects
+- 💬 Ask me about React, Next.js, or anything frontend!
+- 📫 How to reach me: [mitulmistry3011@gmail.com](mailto:mitulmistry3011@gmail.com)
 
-Currently attending Conestoga College learning about Web Development
+## 🛠 Tech Stack
 
-Trying to get good habits of code doing leetcode and other stuff. Also, doing online footprint I think that I'm doing things which is not reflecting online.
+<div align="center">
 
-Lets Connect!
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| React.js | Node.js | SQL | Git |
+| Next.js | Express |  | Webpack |
+| Vue.js | Python (Basic) |  | Jest |
+| TypeScript |  |  | React Testing Library |
+| JavaScript (ES6+) |  |  |  |
 
--- Mitul
+</div>
+
+## 🌟 Featured Projects
+
+### [F1 Data Visualization](https://github.com/LutiM30/f1)
+<img src="https://via.placeholder.com/600x300.png?text=F1+Data+Visualization" width="600" alt="F1 Data Visualization Screenshot" />
+
+- Interactive platform for Formula 1 racing statistics
+- Built with React.js, Next.js, and Recharts
+- Features dynamic charts and world map for circuit locations
+- Real-time data updates via GraphQL
+
+### [MedJournal (Healthcare Platform)](https://github.com/LutiM30/medjournal-frontend)
+<img src="https://via.placeholder.com/600x300.png?text=MedJournal" width="600" alt="MedJournal Screenshot" />
+
+- Built with Next.js and ShadCN UI
+- Secure authentication and Firebase integration
+- Optimized for cross-device compatibility
+- Modular component architecture
+
+## 💼 Professional Projects
+
+- [Purple PRN](https://purpleprn.com/)
+- [JobFunders](https://www.jobfunders.com/nl/)
+- [Collegiate Sports Advocate](http://www.collegiatesportsadvocate.com/)
+
+## 🎓 Education
+
+- **PG Certificate in Web Development**
+  - Conestoga College, Waterloo (Expected: December 2024)
+- **B.E. in Computer Engineering**
+  - Gujarat Technological University
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LutiM30&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LutiM30&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lutim30/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LutiM30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitulmistry3011@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LutiM30&style=flat-square&color=blue" alt="Profile views" />
+</div>
