@@ -35,7 +35,6 @@ I'm a passionate Frontend Developer with 2+ years of experience in building scal
 ## 🌟 Featured Projects
 
 ### [F1 Data Visualization](https://github.com/LutiM30/f1)
-<img src="https://via.placeholder.com/600x300.png?text=F1+Data+Visualization" width="600" alt="F1 Data Visualization Screenshot" />
 
 - Interactive platform for Formula 1 racing statistics
 - Built with React.js, Next.js, and Recharts
@@ -43,7 +42,6 @@ I'm a passionate Frontend Developer with 2+ years of experience in building scal
 - Real-time data updates via GraphQL
 
 ### [MedJournal (Healthcare Platform)](https://github.com/LutiM30/medjournal-frontend)
-<img src="https://via.placeholder.com/600x300.png?text=MedJournal" width="600" alt="MedJournal Screenshot" />
 
 - Built with Next.js and ShadCN UI
 - Secure authentication and Firebase integration
@@ -67,7 +65,6 @@ I'm a passionate Frontend Developer with 2+ years of experience in building scal
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LutiM30&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LutiM30&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📫 Connect With Me
