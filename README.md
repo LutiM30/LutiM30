@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer with 2+ years of experience in building scalable web applications. Currently pursuing Web Development at Conestoga College, I'm expanding my tech stack with Ruby on Rails. My focus is on creating accessible, high-performance web applications and data visualization interfaces.
+I'm a passionate Frontend Developer with 2+ years of experience in building scalable web applications. Recently completed Post Graduation certificate Web Development at Conestoga College, I'm expanding my tech stack with Ruby on Rails. My focus is on creating accessible, high-performance web applications and data visualization interfaces.
 
 - 🔭 I'm currently working on mastering Ruby on Rails
 - 🌱 I'm currently learning advanced backend development techniques
@@ -25,7 +25,7 @@ I'm a passionate Frontend Developer with 2+ years of experience in building scal
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
 | React.js | Node.js | SQL | Git |
-| Next.js | Express |  | Webpack |
+| Next.js | Express | NoSQL | Webpack |
 | Vue.js | Python (Basic) |  | Jest |
 | TypeScript |  |  | React Testing Library |
 | JavaScript (ES6+) |  |  |  |
