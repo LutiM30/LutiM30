@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About Me
-Frontend Developer with 2+ years of experience specializing in building scalable and high-performance web applications. Currently pursuing PG Certificate in Web Development at Conestoga College, focusing on creating accessible, responsive, and user-friendly web experiences.
+Frontend Developer with 2+ years of experience specializing in building scalable and high-performance web applications. Recently completed PG Certificate in Web Development at Conestoga College, focusing on creating accessible, responsive, and user-friendly web experiences.
 
 - 🔭 Currently working on: Mastering Ruby on Rails & Advanced Backend Development
 - 🌱 Learning: Advanced backend architectures and cloud technologies
