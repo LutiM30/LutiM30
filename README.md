@@ -21,101 +21,18 @@ Frontend Developer with 2+ years of experience specializing in building scalable
 
 ```javascript
 const skills = {
-  frontend: [
-    'Next.js',
-    'TypeScript',
-    'JavaScript (ES6+)',
-    'HTML5', 
-    'CSS/SASS',
-    'Webpack',
-    'Vite'
-  ],
-  ui_frameworks: [
-    'Material-UI',
-    'Tailwind CSS',
-    'ShadCN UI',
-    'Radix UI',
-    'Styled Components',
-    'CSS Modules',
-    'Bootstrap'
-  ],
-  backend: [
-    'GraphQL',
-    'Laravel',
-    'Node.js',
-    'Express.js',
-    'REST APIs',
-    'WebSocket',
-    'PHP'
-  ],
-  state_management: [
-    'Zustand',
-    'Context API',
-    'Redux Saga',
-    'Redux Middleware',
-    'Jotai'
-  ],
-  databases: [
-    'PostgreSQL',
-    'MySQL',
-    'MongoDB'
-  ],
-  cloud_infrastructure: [
-    'AWS Lambda',
-    'DynamoDB',
-    'API Gateway',
-    'RDS',
-    'CloudFormation',
-    'CodePipeline',
-    'S3',
-    'CloudFlare'
-  ],
-  testing: [
-    'React Testing Library',
-    'Cypress',
-    'Unit Testing',
-    'E2E Testing',
-    'TDD'
-  ],
-  devops: [
-    'Git',
-    'GitHub',
-    'Bit-Bucket',
-    'Linux',
-    'CI/CD pipelines',
-    'Docker',
-    'AWS DevOps'
-  ],
-  performance: [
-    'WCAG 2.1',
-    'Lighthouse',
-    'Core Web Vitals',
-    'SEO optimization',
-    'Web Performance'
-  ],
-  development_tools: [
-    'ESLint',
-    'Prettier',
-    'Yarn/NPM',
-    'VS Code',
-    'Postman',
-    'Figma'
-  ],
-  analytics: [
-    'Google Analytics 4',
-    'Facebook Pixel',
-    'Adobe Analytics',
-    'GTM',
-    'Content Marketing'
-  ],
-  project_management: [
-    'Jira',
-    'Agile/Scrum',
-    'Confluence',
-    'Trello',
-    'Team Leadership',
-    'Sprint Planning'
-  ]
+  frontend: [ 'Next.js', 'TypeScript', 'JavaScript (ES6+)', 'HTML5',  'CSS/SASS', 'Webpack', 'Vite' ],
+  ui_frameworks: [ 'Material-UI', 'Tailwind CSS', 'ShadCN UI', 'Radix UI', 'Styled Components', 'CSS Modules', 'Bootstrap' ],
+  backend: [ 'GraphQL', 'Laravel', 'Node.js', 'Express.js','REST APIs', 'WebSocket', 'PHP' ],
+  state_management: [   'Zustand', 'Context API', 'Redux Saga', 'Redux Middleware','Jotai'],
+  databases: [  'PostgreSQL', 'MySQL', 'MongoDB', "FireStore", "SupaBase" ],
+  cloud_infrastructure: [  'AWS Lambda', 'DynamoDB', 'API Gateway','RDS', 'CloudFormation', 'CodePipeline', 'S3', 'CloudFlare' ],
+  testing: [ 'React Testing Library', 'Cypress', 'Unit Testing','E2E Testing','TDD' ],
+  devops: [ 'Git', 'GitHub', 'Bit-Bucket','Linux', 'CI/CD pipelines', 'Docker', 'AWS DevOps' ],
+  performance: [ 'WCAG 2.1', 'Lighthouse', 'Core Web Vitals', 'SEO optimization', 'Web Performance' ],
+  development_tools: ['ESLint','Prettier','Yarn/NPM','VS Code','Postman','Figma'],
+  analytics: ['Google Analytics 4', 'Facebook Pixel', 'Adobe Analytics','GTM','Content Marketing'],
+  project_management: ['Jira','Agile/Scrum','Confluence','Trello','Team Leadership','Sprint Planning' ]
 };
 ```
 
