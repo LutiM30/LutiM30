@@ -21,13 +21,101 @@ Frontend Developer with 2+ years of experience specializing in building scalable
 
 ```javascript
 const skills = {
-    frontend: ['React.js', 'Next.js', 'TypeScript', 'JavaScript (ES6+)', 'HTML5', 'CSS3'],
-    ui_libraries: ['Material-UI', 'Tailwind CSS', 'Styled Components', 'ShadCN UI', 'Radix UI'],
-    backend: ['Node.js', 'Express', 'REST APIs', 'GraphQL'],
-    testing: ['Jest', 'React Testing Library', 'Cypress'],
-    tools: ['Git', 'Webpack', 'Babel', 'npm', 'pnpm', 'Figma', 'Adobe XD'],
-    databases: ['Firebase'],
-    practices: ['Agile', 'WCAG Accessibility', 'SEO Optimization', 'CI/CD']
+  frontend: [
+    'Next.js',
+    'TypeScript',
+    'JavaScript (ES6+)',
+    'HTML5', 
+    'CSS/SASS',
+    'Webpack',
+    'Vite'
+  ],
+  ui_frameworks: [
+    'Material-UI',
+    'Tailwind CSS',
+    'ShadCN UI',
+    'Radix UI',
+    'Styled Components',
+    'CSS Modules',
+    'Bootstrap'
+  ],
+  backend: [
+    'GraphQL',
+    'Laravel',
+    'Node.js',
+    'Express.js',
+    'REST APIs',
+    'WebSocket',
+    'PHP'
+  ],
+  state_management: [
+    'Zustand',
+    'Context API',
+    'Redux Saga',
+    'Redux Middleware',
+    'Jotai'
+  ],
+  databases: [
+    'PostgreSQL',
+    'MySQL',
+    'MongoDB'
+  ],
+  cloud_infrastructure: [
+    'AWS Lambda',
+    'DynamoDB',
+    'API Gateway',
+    'RDS',
+    'CloudFormation',
+    'CodePipeline',
+    'S3',
+    'CloudFlare'
+  ],
+  testing: [
+    'React Testing Library',
+    'Cypress',
+    'Unit Testing',
+    'E2E Testing',
+    'TDD'
+  ],
+  devops: [
+    'Git',
+    'GitHub',
+    'Bit-Bucket',
+    'Linux',
+    'CI/CD pipelines',
+    'Docker',
+    'AWS DevOps'
+  ],
+  performance: [
+    'WCAG 2.1',
+    'Lighthouse',
+    'Core Web Vitals',
+    'SEO optimization',
+    'Web Performance'
+  ],
+  development_tools: [
+    'ESLint',
+    'Prettier',
+    'Yarn/NPM',
+    'VS Code',
+    'Postman',
+    'Figma'
+  ],
+  analytics: [
+    'Google Analytics 4',
+    'Facebook Pixel',
+    'Adobe Analytics',
+    'GTM',
+    'Content Marketing'
+  ],
+  project_management: [
+    'Jira',
+    'Agile/Scrum',
+    'Confluence',
+    'Trello',
+    'Team Leadership',
+    'Sprint Planning'
+  ]
 };
 ```
 
@@ -37,8 +125,7 @@ const skills = {
 An interactive Formula 1 statistics platform showcasing:
 - 📊 Dynamic performance metrics and lap analysis using Recharts
 - 🌍 Interactive circuit location mapping with venue details
-- ⚡ Real-time data updates via GraphQL integration
-- 📚 Component documentation with Storybook
+
 
 ### [MedJournal (Healthcare Platform)](https://github.com/LutiM30/medjournal-frontend) 🏥
 A comprehensive healthcare management system featuring:
