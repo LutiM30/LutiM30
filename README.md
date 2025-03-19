@@ -51,25 +51,6 @@ A comprehensive healthcare management system featuring:
 - 🧩 Proxy server-integrated backend for secure patient data handling
 - 🔄 Reusable component library ensuring consistent UI/UX across modules
 
-## 💼 Professional Experience
-
-### Zignuts Technolabs Private Limited (Jan 2022 - Jun 2023)
-- Developed and maintained Ruby on Rails applications with MySQL databases
-- Implemented RESTful APIs and security best practices
-- Automated CI/CD pipelines reducing deployment times by 30%
-- Optimized database performance through indexing and query caching
-
-### BinTech Services (IQLYTIKA) (Jun 2021 - Dec 2021)
-- Supported development of Ruby on Rails modules for internal tools
-- Integrated RESTful APIs with Rails controllers
-- Designed and executed unit tests achieving 86% test coverage
-- Optimized MySQL query performance reducing response times from 800ms to 200ms
-
-### Recent Projects
-- 🎯 [Purple PRN](https://purpleprn.com/)
-- 💼 [JobFunders](https://www.jobfunders.com/nl/)
-- 🎓 [Collegiate Sports Advocate](http://www.collegiatesportsadvocate.com/)
-
 ## 📈 GitHub Stats
 
 <div align="center">
